@@ -7,4 +7,3 @@
 - Eduardo
 - David
 - Cristian
-- Ismael
